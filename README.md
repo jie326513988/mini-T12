@@ -11,6 +11,21 @@
 * 休眠
   * 休眠时间
   * 休眠温度
-* 
+* 屏幕
+  * 屏幕亮度
+  * 屏幕方向
+  * 编码器方向
+* 电源
+  * 基准电压
+  * 电影电压
+  * 低压报警
+  * 过流报警
+* PWM
+  * PWM频率
+  * PWM MAX
+* 烙铁
+  * 烙铁头
+  * 冷端补偿
+  * 开机加热
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/1.jpg)
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/2.JPG)
