@@ -4,6 +4,13 @@
 #### PCB改了好几版，真的烧钱，还未验证完，暂不放出
 #### 菜单选项
 * PID
-** P
+  * P
+  * I
+  * D
+  * K
+* 休眠
+  * 休眠时间
+  * 休眠温度
+* 
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/1.jpg)
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/2.JPG)
