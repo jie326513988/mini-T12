@@ -49,5 +49,6 @@
   * 冷端补偿
   * 开机加热
   * 重置
-![](https://github.com/jie326513988/mini-T12/blob/main/Picture/1.jpg)
-![](https://github.com/jie326513988/mini-T12/blob/main/Picture/2.JPG)
+![](https://github.com/jie326513988/mini-T12/blob/main/Picture/2.jpg)
+![](https://github.com/jie326513988/mini-T12/blob/main/Picture/3.JPG)
+![](https://github.com/jie326513988/mini-T12/blob/main/Picture/4.JPG)
