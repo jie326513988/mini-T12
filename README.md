@@ -63,6 +63,7 @@
 * 10.校准完毕
 
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/2.jpg)
+![](https://github.com/jie326513988/mini-T12/blob/main/Picture/7.jpg)
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/3.jpg)
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/4.jpg)
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/5.jpg)
