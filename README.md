@@ -11,7 +11,7 @@
 * 开机提示音和开机画面
 * 休眠时自动保存当前设置温度到eeprom
 * 待机功耗8.8ma 息屏待机功耗6.4ma
-### 观看视频 https://www.bilibili.com/video/BV1vf4y1B7Xa?p=2
+### 观看视频 https://www.bilibili.com/video/BV1vf4y1B7Xa
 ### PCB11月头验证最终板后放出
 #### 按键功能定义
 * 长按操作（5下短音最后1下长音）
