@@ -1,4 +1,5 @@
 # Mini T12焊台-基于Arduino平台-Atmege328p-au
+![](https://github.com/jie326513988/mini-T12/blob/main/Picture/1.jpg)
 ## 2020-10-30 V0.93功能完善99%
 * 动态调参PID
 * 稳定时显示2秒内采集到的平均温度，其他时候显示实时温度大概500ma刷新一次
@@ -60,6 +61,7 @@
 * 8.测量完4段温度后将光标移至Save，按下确认键，等待程序计时温度曲线
 * 9.计算完会显示P系数界面，，再按下确认键即可退出校准界面
 * 10.校准完毕
+
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/2.jpg)
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/3.jpg)
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/4.jpg)
