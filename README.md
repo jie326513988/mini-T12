@@ -63,3 +63,5 @@
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/2.jpg)
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/3.jpg)
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/4.jpg)
+![](https://github.com/jie326513988/mini-T12/blob/main/Picture/5.jpg)
+![](https://github.com/jie326513988/mini-T12/blob/main/Picture/6.jpg)
