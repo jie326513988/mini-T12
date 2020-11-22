@@ -1,5 +1,6 @@
 # Mini T12焊台-基于Arduino平台-Atmege328p-au
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/1.jpg)
+![](https://github.com/jie326513988/mini-T12/blob/main/Picture/8.jpg)
 ### 2020-11-22 适配V1.7的3D打印外壳发布，两个一起打印大概3小时左右。
 ### 2020-11-15 V1.01程序更新 1.降低PWM频率为15HZ，手柄和mos的声音几乎没有了！之前为61HZ，声音还是有一点的。2.调节PID运行间隔。（31862字节，ide 1.8.13）
 ### PCBV1.7发现三处设计缺陷，完成以下步骤可正常使用。新的PCB V1.8，长度短5.3mm，DC插头伸出PCB板1.5mm。
