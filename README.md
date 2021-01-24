@@ -1,5 +1,5 @@
 # Mini T12焊台-基于Arduino平台-Atmege328p-au
-![](https://github.com/jie326513988/mini-T12/blob/main/Picture/65W.jpg)
+![](https://github.com/jie326513988/mini-T12/blob/main/Picture/v2.2.jpg)
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/8.jpg)
 ### 2021-01-24 V2.2pd诱骗版本正式发布，支持65W氮化镓充电器，TypeC接口，节省体积，优化DCDC线路不烧芯片。3D打印外壳正在绘制。
 ### 2021-01-08 很遗憾，最新版的推出时间延迟。原因是在连续拔插DC插头的时DCDC芯片（JW5018）仍然会有几率烧毁（原因不明），故更换新的DCDC芯片（ME3116）重新画一版。
