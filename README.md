@@ -1,7 +1,7 @@
 # Mini T12焊台-基于Arduino平台-Atmege328p-au
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/v2.2.jpg)
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/8.jpg)
-### 2021-01-24 V2.2pd诱骗版本正式发布，支持65W氮化镓充电器，TypeC接口，节省体积，优化DCDC线路不烧芯片。3D打印外壳正在绘制。
+### 2021-01-26 V2.2pd诱骗版本正式发布，支持65W氮化镓充电器，TypeC接口，节省体积，优化DCDC线路不烧芯片。3D打印外壳已发布。
 
 #### 默认支持深圳头，更换其他厂商的头需要自行校准温度曲线
 #### 一定要使用我提供的U8g2库，否者无法显示中文和提示内存过大无法编译
