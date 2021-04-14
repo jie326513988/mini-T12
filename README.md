@@ -2,6 +2,7 @@
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/v2.2.jpg)
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/8.jpg)
 ### 2021-01-26 V2.2pd诱骗版本正式发布，支持65W氮化镓充电器，TypeC接口，节省体积，优化DCDC线路不烧芯片。3D打印外壳已发布。
+### 2021-04-14 V2.2pd诱骗版本 需将诱骗芯片处100K电阻（接地的那一颗）改为300K，另外一颗不需要改。
 ### 2021-03-21 V1.20程序更新
 * 1.修正温度动画
 
