@@ -1,5 +1,6 @@
 # Mini T12焊台-基于Arduino平台-Atmege328p-au
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/v2.2.jpg)
+![](https://github.com/jie326513988/mini-T12/blob/main/Picture/V2.2hw-1.jpg)
 ![](https://github.com/jie326513988/mini-T12/blob/main/Picture/8.jpg)
 ### 2021-04-17 V2.2适配华为音响电源一体版的3D打印外壳文件放出
 ### 2021-04-14 V2.2pd诱骗版本 需将诱骗芯片处100K电阻（接地的那一颗）改为300K，另外一颗不需要改。
